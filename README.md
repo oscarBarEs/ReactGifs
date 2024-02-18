@@ -6,7 +6,8 @@
 > [!CAUTION]
 >You need to install [Node.js](https://nodejs.org/en)
 
-> [!CAUTION] You need to generate an API key with  [Giphy](https://developers.giphy.com/)
+> [!CAUTION] 
+>You need to generate an API key with  [Giphy](https://developers.giphy.com/)
 
 > [!IMPORTANT]
 >  And also, remember to install the node modules on the file directory terminal using  ``` npm install ```
